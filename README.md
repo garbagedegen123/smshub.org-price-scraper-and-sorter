@@ -11,8 +11,9 @@ Download and install [Python](https://www.python.org/downloads/release/python-31
 * navigate to line 35-37 and fill in the correct information. save and close.
 * back inside the folder, in the address bar type `cmd`
 * In the CMD window type:
-  `pip install requests`
-  `py prices.py`
+  - `pip install requests`
+* Once thats done type:
+  - `py prices.py`
 * profit
 
 
