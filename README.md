@@ -6,10 +6,10 @@ Told chatgpt to make this since smshub doesnt give you the option to sort or fil
   Pretty simple but ill explain anyway. 
 
 Download and install [Python](https://www.python.org/downloads/release/python-3122/)
-* Download and extract the source zip file and save the folder to your 'C:/Desktop'
-* Right click the file named "prices.py", from the dropdown menu select "edit"
-* navigate to line 35-37 and fill in the correct information. save and close.
-* back inside the folder, in the address bar type `cmd`
+* Download prices.py and country_mappings.json and save them in a new folder on your desktop.
+* Open the folder and right click the python file and from the dropdown menu select "edit."
+* Navigate to line 35-37 and fill in the correct information. save and close.
+* Back inside the folder, in the address bar, type: `cmd`
 * In the CMD window type:
   - `pip install requests`
 * Once thats done type:
