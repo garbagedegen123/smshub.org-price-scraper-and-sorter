@@ -1,5 +1,4 @@
 # smshub.org price scraper + sorter
-Told chatgpt to make this since smshub doesnt give you the option to sort or filter anything.
 
 # How to use
 
