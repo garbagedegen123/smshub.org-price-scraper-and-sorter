@@ -15,5 +15,6 @@ Download and install [Python](https://www.python.org/downloads/release/python-31
   - `py prices.py`
 * profit
 
+For support contact me on discord @proxies.txt
 
 ![guCXvZ](https://github.com/garbagedegen123/smshub.org-price-scraper-for-blizzard/assets/90088119/13e1aff2-2f99-4565-bee6-74784c715552)
